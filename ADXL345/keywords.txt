@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map For ADXL345
+####################################### 
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ADXL345	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Init	KEYWORD2
+GetDevID	KEYWORD2
+PowerOn	KEYWORD2
+PowerDown	KEYWORD2
+SleepDev	KEYWORD2
+ReadAccel	KEYWORD2
+ReadAccel	KEYWORD2
+GetGxyz	KEYWORD2
+WriteTo	KEYWORD2
+EnableLowPower	KEYWORD2
+SetRate	KEYWORD2
+GetRange	KEYWORD2
+SetRange	KEYWORD2
+GetFullResolution	KEYWORD2
+SetFullResolution	KEYWORD2
+PrintAllRegister	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+status	LITERAL1
+errorCode	LITERAL1
+gains	LITERAL1
+ADXL345_OK	LITERAL1
+ADXL345_ERROR	LITERAL1
+ADXL345_NO_ERROR	LITERAL1
+ADXL345_READ_ERROR	LITERAL1
+ADXL345_BAD_ARG	LITERAL1
+ADXL345_NO_DEV	LITERAL1
+ADXL345_ADDR_ALT_HIGH	LITERAL1
+ADXL345_ADDR_ALT_LOW	LITERAL1
+ADXL345_BW_1600	LITERAL1
+ADXL345_BW_800	LITERAL1
+ADXL345_BW_400	LITERAL1
+ADXL345_BW_200	LITERAL1
+ADXL345_BW_100	LITERAL1
+ADXL345_BW_50	LITERAL1
+ADXL345_BW_25	LITERAL1
+ADXL345_BW_12	LITERAL1
+ADXL345_BW_6	LITERAL1
+ADXL345_BW_3	LITERAL1
+ADXL345_RANGE_2G	LITERAL1
+ADXL345_RANGE_4G	LITERAL1
+ADXL345_RANGE_8G	LITERAL1
+ADXL345_RANGE_16G	LITERAL1
